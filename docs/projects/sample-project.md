@@ -1,27 +1,18 @@
-<!--
-CHECKLIST FOR THIS PAGE (copy this file for each new project):
-- [ ] Replace [YOUR PROJECT TITLE] with your project title
-- [ ] Replace the hero image with your own (add to docs/assets/images/)
-- [ ] Update the Overview section
-- [ ] Update the Methods & Tools section
-- [ ] Update the Key Findings section
-- [ ] Update the Links section
-- [ ] Add a card for this project on docs/projects/index.md
-- [ ] Add a nav entry in mkdocs.yml
--->
+# Mapping Urban Growth in Bengaluru with Historical CORONA Imagery
 
-# [YOUR PROJECT TITLE]
-
-![Project overview image](../assets/images/placeholder-project.png)
+![Project overview image](../assets/images/bengaluru-corona-1965.png)
 
 ## Overview
 
-[One or two sentences describing what you did, what data you used, and why it matters.]
+A Google Earth Engine web app that visualises high-resolution CORONA satellite imagery of
+Bengaluru from 1965 to study historical urban growth. Most studies of urban change use Landsat
+as their baseline, but CORONA's 2.75 m resolution pushes that baseline back further and reveals
+land-use changes that coarser imagery misses.
 
-**Study Area:** [Region or extent]  
-**Duration:** [Start month/year – End month/year]  
-**Role:** [Solo project / Team lead / Contributor]  
-**Status:** [Completed / In progress]
+**Study Area:** Bengaluru, India
+**Duration:** Ongoing personal project
+**Role:** Solo project
+**Status:** In progress
 
 ---
 
@@ -29,34 +20,35 @@ CHECKLIST FOR THIS PAGE (copy this file for each new project):
 
 **Data Sources**
 
-- [Dataset name and source]
-- [Dataset name and source]
+- Declassified CORONA satellite imagery (1965), 2.75 m resolution
+- Landsat imagery, for baseline comparison
 
 **Processing Steps**
 
-1. [Step one]
-2. [Step two]
-3. [Step three]
-4. [Step four]
+1. Georeferenced the historical CORONA imagery in QGIS
+2. Compared the georeferenced imagery against the standard Landsat baseline
+3. Published the imagery as an interactive web application on Google Earth Engine
 
 **Tools Used**
 
 | Tool | Purpose |
 |------|---------|
-| [Tool 1] | [What you used it for] |
-| [Tool 2] | [What you used it for] |
-| [Tool 3] | [What you used it for] |
+| QGIS | Georeferencing historical CORONA imagery |
+| Google Earth Engine | Building and hosting the interactive web application |
 
 ---
 ## Key Findings
 
-- [Finding one — include a number or metric if possible]
-- [Finding two]
-- [Finding three]
+- CORONA's 2.75 m resolution reveals land-use changes in 1960s Bengaluru that are not visible in the standard Landsat baseline
+- Shifting the historical baseline back to 1965 gives a longer view of the city's urban growth trajectory
 
 ---
 
 ## Links
 
-[View Code on GitHub](https://github.com/[YOUR-GITHUB-USERNAME]/[YOUR-REPO-NAME]){ .md-button }
-[View Data Source](https://example.com){ .md-button }
+[View Web App](https://ee-soniacivil.projects.earthengine.app/view/bengaluru-in-1965){ .md-button .md-button--primary }
+
+### Other Work Samples
+
+- **[Walkability Analysis](https://www.linkedin.com/posts/activity-7388104109951770624-UypM?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAwb5s8BK-RgCIzdl6pa3GNH-qtMWDCJtcY)** — Walkability scores for Bengaluru using NetAScore (University of Salzburg), which classifies OSM road networks for walkability and bikeability. Tools: QGIS, Python.
+- **[Building a Resilient Bengaluru](https://buildingaresilientbengaluru.com/resources/)** — A public-awareness campaign on stormwater drains for Mod Foundation; designed and executed the geospatial workflow behind the project.

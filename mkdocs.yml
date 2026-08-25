@@ -7,11 +7,10 @@
 # Edit all lines marked [YOUR ...] to customize your site
 # ============================================================
 
-site_name: "[YOUR NAME] - Geospatial Portfolio"
-site_description: "Portfolio of [YOUR NAME] — GIS, Remote Sensing, and Spatial Data Science"
-site_author: "[YOUR NAME]"
-# After your site is live, uncomment and set this to your actual GitHub Pages URL:
-#site_url: "https://your-username.github.io/your-repo-name"
+site_name: "Sonia Das - Geospatial Portfolio"
+site_description: "Portfolio of Sonia Das — GIS, Remote Sensing, and Spatial Data Science"
+site_author: "Sonia Das"
+site_url: "https://soniadas123.github.io/soniadas/"
 
 theme:
   name: material
@@ -59,16 +58,16 @@ markdown_extensions:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
 
-copyright: "Copyright &copy; [YOUR NAME]"
+copyright: "Copyright &copy; Sonia Das"
 
 extra:
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/[YOUR-GITHUB-USERNAME]
+      link: https://github.com/soniadas123
     - icon: fontawesome/brands/linkedin
-      link: https://linkedin.com/in/[YOUR-LINKEDIN-USERNAME]
+      link: https://www.linkedin.com/in/sonia-das-77b05258/
     - icon: material/email
-      link: mailto:[YOUR-EMAIL-ADDRESS]
+      link: mailto:sonia.scholarship.2021@gmail.com
 
 
 plugins:
@@ -90,4 +89,5 @@ nav:
     # 4. Add a project card on docs/projects/index.md
   - Publications: publications.md
   - Experience: experience.md
+  - Certifications: certifications.md
   - Contact: contact.md

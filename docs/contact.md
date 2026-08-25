@@ -5,12 +5,10 @@ hide:
 ---
 <!--
 CHECKLIST FOR THIS PAGE:
-- [ ] Replace [YOUR-EMAIL-ADDRESS] with your actual email
-- [ ] Replace [YOUR-GITHUB-USERNAME] with your GitHub username
-- [ ] Replace [YOUR-LINKEDIN-USERNAME] with your LinkedIn username
-- [ ] Replace [YOUR-NAME] in the CV link with the actual filename of your PDF
+- [x] Replace [YOUR-EMAIL-ADDRESS] with your actual email
+- [x] Replace [YOUR-GITHUB-USERNAME] with your GitHub username
+- [x] Replace [YOUR-LINKEDIN-USERNAME] with your LinkedIn username
 - [ ] Delete the Twitter/X row if you don't use it
-- [ ] Delete the ResearchGate row if not applicable
 -->
 
 # Contact
@@ -22,11 +20,6 @@ Feel free to reach out through any of the channels below.
 
 | | |
 |---|---|
-| :material-email: **Email** | [your-email@example.com](mailto:[YOUR-EMAIL-ADDRESS]) |
-| :fontawesome-brands-github: **GitHub** | [github.com/[YOUR-GITHUB-USERNAME]](https://github.com/[YOUR-GITHUB-USERNAME]) |
-| :fontawesome-brands-linkedin: **LinkedIn** | [linkedin.com/in/[YOUR-LINKEDIN-USERNAME]](https://linkedin.com/in/[YOUR-LINKEDIN-USERNAME]) |
-| :material-school: **ResearchGate** | [researchgate.net/profile/[YOUR-PROFILE]](https://www.researchgate.net/profile/[YOUR-PROFILE]) |
-
----
-
-[Download CV :material-download:](assets/[YOUR-NAME]-CV.pdf){ .md-button .md-button--primary }
+| :material-email: **Email** | [sonia.scholarship.2021@gmail.com](mailto:sonia.scholarship.2021@gmail.com) |
+| :fontawesome-brands-github: **GitHub** | [github.com/soniadas123](https://github.com/soniadas123) |
+| :fontawesome-brands-linkedin: **LinkedIn** | [linkedin.com/in/sonia-das-77b05258](https://www.linkedin.com/in/sonia-das-77b05258/) |
