@@ -16,38 +16,6 @@ CHECKLIST FOR THIS PAGE:
 
 A selection of my geospatial projects. Click any card to see the full write-up.
 
-<div class="grid" markdown>
-
-<div class="project-card" markdown>
-![](../assets/images/bengaluru-corona-1965.png)
-
-**[Sample Project](sample-project.md)**
-
-A Google Earth Engine web app visualising 1965 CORONA satellite imagery of Bengaluru to
-push the baseline for studying urban growth back beyond Landsat.
-
-`QGIS` `Google Earth Engine` `Python`
-
-[View Project →](sample-project.md){ .md-button }
-</div>
-
-<div class="project-card" markdown>
-![](../assets/images/placeholder-notebook.png)
-
-**[Sample Notebook](sample-notebook.ipynb)**
-
-[YOUR PROJECT DESCRIPTION — one or two sentences: what you did, what data you used,
-and what you found or built.]
-
-`Python` `pandas` `Folium`
-
-[View Project →](sample-notebook.ipynb){ .md-button }
-</div>
-
-</div>
-
----
-
 ## Agentic AI for Geospatial
 
 Projects built through agentic coding workflows, applying AI-assisted development to geospatial tools and data.
@@ -91,6 +59,38 @@ through map-reading levels with persistent game state.
 `JavaScript` `HTML/CSS` `Game Design`
 
 [View Project →](https://github.com/soniadas123/invisible-atlas-quiz){ .md-button }
+</div>
+
+</div>
+
+---
+
+<div class="grid" markdown>
+
+<div class="project-card" markdown>
+![](../assets/images/bengaluru-corona-1965.png)
+
+**[GEE Project](sample-project.md)**
+
+A Google Earth Engine web app visualising 1965 CORONA satellite imagery of Bengaluru to
+push the baseline for studying urban growth back beyond Landsat.
+
+`QGIS` `Google Earth Engine` `Python`
+
+[View Project →](sample-project.md){ .md-button }
+</div>
+
+<div class="project-card" markdown>
+![](../assets/images/placeholder-notebook.png)
+
+**[Sample Notebook](sample-notebook.ipynb)**
+
+[YOUR PROJECT DESCRIPTION — one or two sentences: what you did, what data you used,
+and what you found or built.]
+
+`Python` `pandas` `Folium`
+
+[View Project →](sample-notebook.ipynb){ .md-button }
 </div>
 
 </div>
