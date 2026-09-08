@@ -132,6 +132,14 @@ Geospatial data scientist with domain expertise in urban planning, intelligence 
     - GPS fieldwork
     - Kobo Toolbox and ODK for citizen-audit data collection
 
+-   :material-file-document-outline:{ .lg .middle } **Research & Funding**
+
+    ---
+
+    - Grant writing and proposal development
+    - Funded research: BSF Small Grants Programme, SERB, ISRO
+    - Peer-reviewed publication — 5 journal articles, 2 book chapters
+
 -   :material-web:{ .lg .middle } **Web & Portfolio Tools**
 
     ---

@@ -26,6 +26,7 @@ hide:
 ### GIS Specialist — Mod Foundation
 *March 2025 – February 2026 | Bengaluru, India*
 
+- Contributed to grant writing that secured project funding from the Bengaluru Sustainability Forum Small Grants Programme
 - Designed maps for projection, print, and interactive exhibitions on mobility and urban water in Bengaluru
 - Formulated survey questions and managed Kobo Toolbox / ODK forms for citizen audits on the "Stormwater and the City" project
 - Published a Google Earth Engine web app visualising Survey of India Guide maps
@@ -50,6 +51,7 @@ hide:
 ### Senior Research Fellow — National Institute of Advanced Studies (NIAS), IISc Campus
 *November 2015 – January 2020 | Bengaluru, India*
 
+- Contributed technical sections to research proposals for projects funded by SERB and ISRO
 - Conducted research on cultural heritage in Karnataka and Bihar using remote sensing and GIS, on projects funded by KKC, SERB, and ISRO
 - Created DEMs from Cartosat stereo data and derived 2-metre contours using the LPS photogrammetry suite of ERDAS Imagine
 - Developed NDVI and LULC maps, carried out GPS fieldwork, and published research in peer-reviewed journals across 10+ archaeological sites in India
