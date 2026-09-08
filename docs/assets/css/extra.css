@@ -61,9 +61,19 @@
   margin-top: 0;
 }
 
+/* Card tint. Defined as a variable so the dark scheme can override it — a
+   hardcoded light blue leaves near-white text unreadable in dark mode. */
+:root {
+  --card-bg: #f0f7ff;
+}
+
+[data-md-color-scheme="slate"] {
+  --card-bg: rgba(255, 255, 255, 0.05);
+}
+
 /* Skills grid cards on the Home page */
 .md-typeset .grid.cards > ul > li {
-  background-color: #f0f7ff;
+  background-color: var(--card-bg);
 }
 
 /* Project cards on the Projects gallery page */
@@ -71,7 +81,7 @@
   border: 1px solid var(--md-default-fg-color--lightest);
   border-radius: 8px;
   padding: 1rem;
-  background-color: #f0f7ff;
+  background-color: var(--card-bg);
   transition: box-shadow 0.2s;
 }
 
@@ -85,4 +95,11 @@
   object-fit: cover;
   border-radius: 4px;
   margin-bottom: 0.75rem;
+}
+
+/* A section holding a single card should not stretch that card across the full
+   page width. auto-fill keeps the empty columns, so a lone card stays the same
+   width as the cards in the multi-card sections above it. */
+.md-typeset .grid:has(> .project-card:only-child) {
+  grid-template-columns: repeat(auto-fill, minmax(min(100%, 16rem), 1fr));
 }

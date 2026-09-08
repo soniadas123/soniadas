@@ -9,10 +9,10 @@ Bengaluru from 1965 to study historical urban growth. Most studies of urban chan
 as their baseline, but CORONA's 2.75 m resolution pushes that baseline back further and reveals
 land-use changes that coarser imagery misses.
 
-**Study Area:** Bengaluru, India
-**Duration:** Ongoing personal project
-**Role:** Solo project
-**Status:** In progress
+- **Study Area:** Bengaluru, India
+- **Duration:** Ongoing personal project
+- **Role:** Solo project
+- **Status:** In progress
 
 ---
 
@@ -51,4 +51,3 @@ land-use changes that coarser imagery misses.
 ### Other Work Samples
 
 - **[Walkability Analysis](https://www.linkedin.com/posts/activity-7388104109951770624-UypM?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAwb5s8BK-RgCIzdl6pa3GNH-qtMWDCJtcY)** — Walkability scores for Bengaluru using NetAScore (University of Salzburg), which classifies OSM road networks for walkability and bikeability. Tools: QGIS, Python.
-- **[Building a Resilient Bengaluru](https://buildingaresilientbengaluru.com/resources/)** — A public-awareness campaign on stormwater drains for Mod Foundation; designed and executed the geospatial workflow behind the project.

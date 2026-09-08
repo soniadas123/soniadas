@@ -65,6 +65,10 @@ through map-reading levels with persistent game state.
 
 ---
 
+## Google Earth Engine
+
+Satellite imagery analysis and interactive web apps built in the Earth Engine Code Editor.
+
 <div class="grid" markdown>
 
 <div class="project-card" markdown>
@@ -78,19 +82,43 @@ push the baseline for studying urban growth back beyond Landsat.
 `QGIS` `Google Earth Engine` `Python`
 
 [View Project →](sample-project.md){ .md-button }
+[View Web App](https://ee-soniacivil.projects.earthengine.app/view/bengaluru-in-1965){ .md-button }
 </div>
 
 <div class="project-card" markdown>
-![](../assets/images/placeholder-notebook.png)
+![](../assets/images/bengaluru-builtup-thumb.png)
 
-**[Sample Notebook](sample-notebook.ipynb)**
+**[Built-up Growth 1965-2023](bengaluru-builtup-growth.md)**
 
-[YOUR PROJECT DESCRIPTION — one or two sentences: what you did, what data you used,
-and what you found or built.]
+Random Forest supervised classification of Landsat and Sentinel imagery in Earth Engine,
+tracking Bengaluru's built-up footprint from 6,900 ha in 1965 to 44,970 ha in 2023.
 
-`Python` `pandas` `Folium`
+`Google Earth Engine` `Random Forest` `QGIS`
 
-[View Project →](sample-notebook.ipynb){ .md-button }
+[View Project →](bengaluru-builtup-growth.md){ .md-button }
+</div>
+
+</div>
+
+---
+
+## Urban Water & Resilience
+
+Applied and participatory work on Bengaluru's water systems, built with and for the people who use them.
+
+<div class="grid" markdown>
+
+<div class="project-card" markdown>
+![](../assets/images/resilient-bengaluru-thumb.png)
+
+**[Building a Resilient Bengaluru](resilient-bengaluru.md)**
+
+A city-scale citizen audit of Bengaluru's stormwater drains, from ODK/KoboToolbox collection
+to a Python dashboard, alongside the maps behind the programme's public exhibitions.
+
+`KoboToolbox` `Python` `QGIS`
+
+[View Project →](resilient-bengaluru.md){ .md-button }
 </div>
 
 </div>

@@ -49,6 +49,49 @@ actually use. I am based in Bengaluru, India.
 
 ---
 
+## Career at a Glance
+
+Geospatial data scientist with domain expertise in urban planning, intelligence and archaeology.
+
+<div class="grid cards" markdown>
+
+-   :material-bank:{ .lg .middle } **Archaeology**
+
+    ---
+
+    *NIAS, IISc Campus*
+
+    Remote sensing and GIS for landscape archaeology across 10+ sites in India: DEMs from
+    Cartosat stereo data, NDVI and LULC mapping, and GPS fieldwork.
+
+    [The role](experience.md#senior-research-fellow-national-institute-of-advanced-studies-nias-iisc-campus) · [7 publications](publications.md)
+
+-   :material-shield-outline:{ .lg .middle } **Defence & Government**
+
+    ---
+
+    *NTRO, Govt. of India*
+
+    Published image services and dashboards in ArcGIS Pro, ran geospatial analysis in Python,
+    R and Earth Engine, and wrote user manuals for GIS tools.
+
+    [The role](experience.md#gis-consultant-national-technical-research-organisation-govt-of-india)
+
+-   :material-city:{ .lg .middle } **Urban Water & Resilience, Mobility**
+
+    ---
+
+    *Mod Foundation, WSP*
+
+    Stormwater drain citizen audits, urban growth analysis from historical satellite imagery,
+    and transport modelling for UK infrastructure planning.
+
+    [The roles](experience.md#gis-specialist-mod-foundation) · [Projects](projects/index.md)
+
+</div>
+
+---
+
 [View My Projects :material-arrow-right:](projects/index.md){ .md-button .md-button--primary }
 
 

@@ -80,6 +80,8 @@ nav:
   - Projects:
     - "All Projects": projects/index.md
     - "GEE Project": projects/sample-project.md
+    - "Built-up Growth": projects/bengaluru-builtup-growth.md
+    - "Resilient Bengaluru": projects/resilient-bengaluru.md
     - "Jupyter Notebook Project": projects/sample-notebook.ipynb
     # HOW TO ADD A NEW PROJECT:
     # 1. Copy docs/projects/sample-project.md to docs/projects/your-project-name.md
