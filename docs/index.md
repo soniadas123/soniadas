@@ -51,20 +51,22 @@ actually use. I am based in Bengaluru, India.
 
 ## Career at a Glance
 
-Geospatial data scientist with domain expertise in urban planning, intelligence and archaeology.
+Geospatial data scientist with domain expertise in urban planning and resilience, intelligence
+and archaeology, with community-engaged fieldwork and survey design.
 
 <div class="grid cards" markdown>
 
--   :material-bank:{ .lg .middle } **Archaeology**
+-   :material-city:{ .lg .middle } **Urban Resilience, Mobility & Community Engagement**
 
     ---
 
-    *NIAS, IISc Campus*
+    *Mod Foundation, WSP*
 
-    Remote sensing and GIS for landscape archaeology across 10+ sites in India: DEMs from
-    Cartosat stereo data, NDVI and LULC mapping, and GPS fieldwork.
+    Stormwater drain citizen audits and Kobo/ODK survey design, maps for public exhibitions
+    on urban water and mobility, urban growth analysis from historical satellite imagery, and
+    transport modelling for UK infrastructure planning.
 
-    [The role](experience.md#senior-research-fellow-national-institute-of-advanced-studies-nias-iisc-campus) · [7 publications](publications.md)
+    [The roles](experience.md#gis-specialist-mod-foundation) · [Projects](projects/index.md)
 
 -   :material-shield-outline:{ .lg .middle } **Defence & Government**
 
@@ -77,16 +79,16 @@ Geospatial data scientist with domain expertise in urban planning, intelligence 
 
     [The role](experience.md#gis-consultant-national-technical-research-organisation-govt-of-india)
 
--   :material-city:{ .lg .middle } **Urban Water & Resilience, Mobility**
+-   :material-bank:{ .lg .middle } **Archaeology**
 
     ---
 
-    *Mod Foundation, WSP*
+    *NIAS, IISc Campus*
 
-    Stormwater drain citizen audits, urban growth analysis from historical satellite imagery,
-    and transport modelling for UK infrastructure planning.
+    Remote sensing and GIS for landscape archaeology across 10+ sites in India: DEMs from
+    Cartosat stereo data, NDVI and LULC mapping, and GPS fieldwork.
 
-    [The roles](experience.md#gis-specialist-mod-foundation) · [Projects](projects/index.md)
+    [The role](experience.md#senior-research-fellow-national-institute-of-advanced-studies-nias-iisc-campus) · [7 publications](publications.md)
 
 </div>
 

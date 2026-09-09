@@ -17,7 +17,7 @@ and architecture students rather than by specialists.
 - **Duration:** March 2025 – February 2026
 - **Role:** GIS Specialist
 - **Study Area:** Bengaluru, India
-- **Funding:** Bengaluru Sustainability Forum, Small Grants Programme
+- **Funding:** [Bengaluru Sustainability Forum, Small Grants Programme](https://www.bengalurusustainabilityforum.org/stormwater-and-the-city/)
 
 ---
 
