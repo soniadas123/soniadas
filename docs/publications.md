@@ -28,4 +28,21 @@ hide:
 
 ---
 
+## In the News
+
+1. **Bangalore Mirror** (21 January 2017). "[Tipu's Lost Paradise Found](https://bangaloremirror.indiatimes.com/bangalore/cover-story/tipus-lost-paradise-found/heroesshow/56693412.cms)" — on the Srirangapatna remote sensing survey (journal article 3).
+
+2. **Bangalore Mirror** (8 September 2016). "[Found Trashed: 16 Historical Gems](https://bangaloremirror.indiatimes.com/bangalore/others/Found-trashed-16-historical-gems/articleshow/54125802.cms)"
+
+<!--
+TEMPLATE - copy this line for each additional press item, keeping the same order:
+outlet in bold, date in brackets, headline linked, then a short clause naming the work
+it covers.
+
+3. **Outlet name** (date). "[Headline of the article](https://url)" — on the [name of the
+   work it covers].
+-->
+
+---
+
 *For citation counts and a full list, see [Google Scholar](https://scholar.google.com/citations?hl=en&user=3hXvz38AAAAJ).*
