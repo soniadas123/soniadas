@@ -103,3 +103,10 @@
 .md-typeset .grid:has(> .project-card:only-child) {
   grid-template-columns: repeat(auto-fill, minmax(min(100%, 16rem), 1fr));
 }
+
+/* Citation line under a Research Contributions entry. Held back in size and
+   colour so the contribution above it stays the thing you read first. */
+.md-typeset .pub-credit {
+  font-size: 0.75rem;
+  color: var(--md-default-fg-color--light);
+}

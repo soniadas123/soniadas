@@ -45,4 +45,22 @@ it covers.
 
 ---
 
+## Research Contributions & Acknowledgements
+
+*Technical contributions to peer-reviewed research led by other authors. Each study credits
+my work in its acknowledgements.*
+
+1. **Identified and georeferenced Corona satellite imagery for the Hampi study area**<br><span class="pub-credit">K. Rajangam & M.B. Rajani (2017). "Applications of Geospatial Technology in the Management of Cultural Heritage Sites – Potentials and Challenges for the Indian Region." *Current Science*, 113(10), 1948–1960.</span>
+
+<!--
+TEMPLATE - copy this block for each additional study, keeping the same shape: the
+contribution first in bold, then a line break, then the citation wrapped in the
+pub-credit span so it renders smaller and greyed out. The paper title is deliberately
+not linked - the emphasis stays on the contribution, not on the publication.
+
+2. **What you did, in a short phrase**<br><span class="pub-credit">A.B. Author & C.D. Author (year). "Title of the article." *Journal Name*, volume(issue), pages.</span>
+-->
+
+---
+
 *For citation counts and a full list, see [Google Scholar](https://scholar.google.com/citations?hl=en&user=3hXvz38AAAAJ).*
