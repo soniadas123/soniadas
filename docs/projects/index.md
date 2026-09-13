@@ -38,27 +38,42 @@ wiki of geospatial and archaeology topics, and auto-publishes to GitHub Pages vi
 <div class="project-card" markdown>
 ![](../assets/images/agentic-bangalore-metro-map.png)
 
-**[Bangalore Metro Population Map](https://github.com/soniadas123/bangalore-metro-population-map)**
+**[Bangalore Metro Population Map](https://soniadas123.github.io/bangalore-metro-population-map/)**
 
 Interactive map comparing Namma Metro station coverage against Bengaluru's population
 (WorldPop), with a client-side draw-a-buffer tool. Fully static, GitHub Pages deployed.
 
 `JavaScript` `WorldPop` `Leaflet`
 
-[View Project →](https://github.com/soniadas123/bangalore-metro-population-map){ .md-button }
+[View Project →](https://soniadas123.github.io/bangalore-metro-population-map/){ .md-button }
 </div>
 
 <div class="project-card" markdown>
 ![](../assets/images/agentic-invisible-atlas.png)
 
-**[The Invisible Atlas](https://github.com/soniadas123/invisible-atlas-quiz)**
+**[The Invisible Atlas](https://soniadas123.github.io/invisible-atlas-quiz/)**
 
 A browser-based geospatial quiz game built as a multi-page static site, guiding players
 through map-reading levels with persistent game state.
 
 `JavaScript` `HTML/CSS` `Game Design`
 
-[View Project →](https://github.com/soniadas123/invisible-atlas-quiz){ .md-button }
+[View Project →](https://soniadas123.github.io/invisible-atlas-quiz/){ .md-button }
+</div>
+
+<div class="project-card" markdown>
+![](../assets/images/agentic-bus-stop-audit.png)
+
+**[Bengaluru Bus Stop Audit](https://soniadas123.github.io/bengaluru-bus-stop-audit/map-v2.html)**
+
+An interactive map of a volunteer-collected accessibility and safety audit of 406 Bengaluru
+bus stops, with filters by corporation, shelter type and night-time safety, and a live stats
+panel that updates with the filters.
+
+`Python` `Pandas/GeoPandas` `Leaflet`
+
+[View Project →](https://soniadas123.github.io/bengaluru-bus-stop-audit/map-v2.html){ .md-button }
+[View Code](https://github.com/soniadas123/bengaluru-bus-stop-audit){ .md-button }
 </div>
 
 </div>
