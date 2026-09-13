@@ -28,6 +28,18 @@ basemap, with the arterial road network from OpenStreetMap.
 `QGIS` `Sentinel-2` `OpenStreetMap`
 </div>
 
+<div class="project-card" markdown>
+[![Two-panel land cover classification of Bengaluru for 2023, comparing KNN and Random Forest classifiers applied to AlphaEarth Foundations embeddings](assets/images/aef-embeddings-landcover-bengaluru-2023.png)](assets/images/aef-embeddings-landcover-bengaluru-2023.png){ target="_blank" rel="noopener" title="Click to view the full-size map" }
+
+**Land Cover from AlphaEarth Embeddings, Bengaluru 2023**
+
+KNN and Random Forest supervised classifications of AlphaEarth Foundations satellite
+embeddings, side by side. The two classifiers agree closely on water (1.7% vs 1.6%) but
+diverge on vegetation, at 26.1% against 19.6%.
+
+`Python` `Cloud Native Remote Sensing` `AlphaEarth Embeddings`
+</div>
+
 </div>
 
 <!--
