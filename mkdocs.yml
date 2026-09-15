@@ -92,5 +92,7 @@ nav:
   - Publications: publications.md
   - Experience: experience.md
   - Certifications: certifications.md
-  - "Map Gallery": map-gallery.md
+  - "Map Gallery":
+    - "All Maps": map-gallery.md
+    - "Resources": resources.md
   - Contact: contact.md
