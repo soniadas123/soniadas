@@ -110,3 +110,30 @@
   font-size: 0.75rem;
   color: var(--md-default-fg-color--light);
 }
+
+/* Course announcement banner on the Home page. Warm amber, echoing the poster's
+   "Book a seat" button, so it stands apart from the blue cards below it. */
+:root {
+  --banner-bg: #fff6e5;
+  --banner-border: #f0a030;
+}
+
+[data-md-color-scheme="slate"] {
+  --banner-bg: rgba(255, 170, 0, 0.08);
+}
+
+.course-banner {
+  margin: 1rem 0;
+  padding: 1rem 1.25rem;
+  border-left: 4px solid var(--banner-border);
+  border-radius: 8px;
+  background-color: var(--banner-bg);
+}
+
+.md-typeset .course-banner p {
+  margin: 0 0 0.5rem 0;
+}
+
+.md-typeset .course-banner .md-button {
+  margin-top: 0.25rem;
+}
