@@ -39,6 +39,19 @@ diverge on vegetation, at 26.1% against 19.6%.
 `Python` `Cloud Native Remote Sensing` `AlphaEarth Embeddings`
 </div>
 
+<div class="project-card" markdown>
+[![Map of existing and lost water bodies in Bengaluru with primary and secondary drains](assets/images/bengaluru-lost-water-bodies.png)](assets/images/bengaluru-lost-water-bodies.png){ target="_blank" rel="noopener" title="Click to view the full-size map" }
+
+**Lakes, Drains and Valleys of Bengaluru**
+
+Two companion maps. The first shows existing water bodies and those lost since the
+Survey of India maps of 1854, 1870, 1897 and 1969, with the primary and secondary drains.
+The [second map](assets/images/bengaluru-watershed-valleys.png){ target="_blank" rel="noopener" }
+places the stormwater drain network and lakes in the city's valleys over an SRTM elevation model.
+
+`QGIS` `Hydrology` `SRTM DEM`
+</div>
+
 </div>
 
 <!--
