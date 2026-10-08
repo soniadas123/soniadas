@@ -30,7 +30,7 @@ CHECKLIST FOR THIS PAGE:
 
 <div class="about-text" markdown>
 
-My work over the past six years has focused on applying geospatial analysis to urban planning,
+My work over the past ten years has focused on applying geospatial analysis to urban planning,
 mobility, and archaeology across research institutions, consulting projects, and interdisciplinary
 collaborations. I work extensively with QGIS, ArcGIS Pro, Google Earth Engine, and Python to build
 workflows, dashboards, and spatial decision-support tools.
@@ -148,7 +148,14 @@ and archaeology, with community-engaged fieldwork and survey design.
 
     - GitHub and GitHub Pages
     - Static site generators (MkDocs)
-    - Using LLMs for data extraction and Markdown content
+
+-   :material-robot-outline:{ .lg .middle } **AI-Assisted Geospatial Workflows**
+
+    ---
+
+    - Claude Code for Python geospatial analysis and building web maps and sites
+    - Claude Code with QGIS (via MCP) for automating GIS workflows
+    - LLMs for data extraction and Markdown content
 </div>
 
 
