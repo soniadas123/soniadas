@@ -5,7 +5,7 @@ hide:
 
 # Resources
 
-Teaching material and code I have put together for people picking up these tools.
+Teaching material, code and videos I have put together for people picking up these tools.
 
 - **Python for Urban Planners** [In development] —
   Beginner friendly Google Colab notebooks that teach Python for spatial analysis using real
@@ -27,4 +27,26 @@ dots, distance zones around their own city, and a final map project of their own
 
 No prior experience needed, just a laptop and a web browser.
 
-[![Mapping with Kids course poster](assets/images/mapping-with-kids-poster.jpeg){ width="420" }](assets/images/mapping-with-kids-poster.jpeg){ target="_blank" rel="noopener" title="Click to view the full-size poster" }
+## Mapping videos on Instagram { #instagram }
+
+Short videos on maps and geospatial tools, posted on two Instagram accounts.
+
+<div class="grid cards" markdown>
+
+-   :fontawesome-brands-instagram:{ .lg .middle } **@ai4geo**
+
+    ---
+
+    Short videos on using AI with geospatial data and mapping workflows.
+
+    [Watch on Instagram :material-arrow-right:](https://www.instagram.com/ai4geo/){ target="_blank" rel="noopener" }
+
+-   :fontawesome-brands-instagram:{ .lg .middle } **@mapicorns**
+
+    ---
+
+    Short mapping videos and map-making ideas.
+
+    [Watch on Instagram :material-arrow-right:](https://www.instagram.com/mapicorns/){ target="_blank" rel="noopener" }
+
+</div>
