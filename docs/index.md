@@ -172,11 +172,11 @@ and archaeology, with community-engaged fieldwork and survey design.
 
 **NEW COURSE** · **Mapping with Kids**
 
-A hands-on GIS course for kids aged 9-13: learn how satellites see the Earth, then build a
+A hands-on GIS course for kids aged 10-15: learn how satellites see the Earth, then build a
 real map of India from scratch.
 
-**Starts 24 October 2026** · 2 weekends (Sat & Sun, 1 hour each) · Rs 2,000 per child ·
-Book a seat: [sonia.geoai@gmail.com](mailto:sonia.geoai@gmail.com)
+For upcoming batches and bookings, follow
+[@mapicorns on Instagram](https://www.instagram.com/mapicorns/){ target="_blank" rel="noopener" }
 
 [Course details :material-arrow-right:](resources.md#mapping-with-kids){ .md-button .md-button--primary }
 

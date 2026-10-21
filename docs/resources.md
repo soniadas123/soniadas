@@ -15,17 +15,14 @@ Teaching material, code and videos I have put together for people picking up the
 ## Mapping with Kids { #mapping-with-kids }
 
 **[Mapping with Kids](https://github.com/soniadas123/mapping-with-kids)** — a hands-on GIS
-course for children aged 9-13. Kids learn how satellites see the Earth, then build a real
+course for children aged 10-15. Kids learn how satellites see the Earth, then build a real
 map of India from scratch: an outline map with a satellite view, famous places as labelled
 dots, distance zones around their own city, and a final map project of their own.
 
-### Upcoming courses
-
-| Course | Starts | Schedule | Ages | Fee | Booking |
-|---|---|---|---|---|---|
-| Mapping with Kids - Batch 1 | 24 October 2026 | 2 weekends, Sat & Sun, 1 hour each (4 sessions) | 9-13 | Rs 2,000 per child, includes lifelong mentorship | [sonia.geoai@gmail.com](mailto:sonia.geoai@gmail.com) |
-
 No prior experience needed, just a laptop and a web browser.
+
+For upcoming batches and bookings, follow
+[@mapicorns on Instagram](https://www.instagram.com/mapicorns/){ target="_blank" rel="noopener" }.
 
 ## Mapping videos on Instagram { #instagram }
 

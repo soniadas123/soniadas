@@ -136,4 +136,18 @@ to a Python dashboard, alongside the maps behind the programme's public exhibiti
 [View Project →](resilient-bengaluru.md){ .md-button }
 </div>
 
+<div class="project-card" markdown>
+![](../assets/images/bengaluru-water-map-thumb.png)
+
+**[Bengaluru Water Map](bengaluru-water-map.md)**
+
+A ward-by-ward map of Bengaluru's lakes, lost lakes and stormwater drains, built on data from
+Building a Resilient Bengaluru. Generates printable ward reports (water bodies, drain lengths,
+citizen audit findings) and reports for any uploaded KML area.
+
+`Python` `GeoPandas` `Leaflet`
+
+[View Project →](https://soniadas123.github.io/bengaluru-water-map/version4/){ .md-button }
+</div>
+
 </div>
