@@ -26,6 +26,28 @@ CHECKLIST FOR THIS PAGE:
 
 ---
 
+<div class="featured-project" markdown>
+
+![Bengaluru Water Map](assets/images/bengaluru-water-map-thumb.png)
+
+<div markdown>
+
+<p class="featured-label">What's new</p>
+
+### Bengaluru Water Map
+
+A ward-by-ward map of Bengaluru's lakes, lost lakes and stormwater drains, built on data from
+Building a Resilient Bengaluru. Generates printable ward reports and reports for any uploaded
+KML area.
+
+[Open the map :material-arrow-right:](https://soniadas123.github.io/bengaluru-water-map/version4/){ .md-button .md-button--primary target="_blank" rel="noopener" }
+[Read more](projects/bengaluru-water-map.md){ .md-button }
+
+</div>
+</div>
+
+---
+
 ## About Me
 
 <div class="about-text" markdown>
